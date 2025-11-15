@@ -4,57 +4,144 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
+# Locked In – Privacy Policy
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+**Last updated:** November 15, 2025
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+Thank you for using Locked In (“we,” “us,” or “our”). This Privacy Policy explains how we collect, use, store, and protect your information when you use our mobile application, website, and related services (collectively, the “Service”).
 
-<br>
+By using Locked In, you agree to the practices described in this Privacy Policy.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+---
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+## 1. Information We Collect
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+We collect the following types of information to provide and improve the Service:
 
-<br>
+### 1.1 Information You Provide to Us
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+- **Account Information:** Email, username, password, or authentication tokens.
+- **Habit & Program Data:** Habits, routines, goals, custom programs, workout details.
+- **Daily Journal Entries:** Any text or reflections you choose to record.
+- **Progress Data:** Check-ins, completion rates, streaks, measurements, or photos (if you upload them).
+- **Support Requests:** Information you provide when contacting customer support.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+### 1.2 Automatically Collected Information
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+When you use the Service, we may automatically collect:
 
-<br>
+- **Device Information:** Type of device, operating system, unique device identifiers.
+- **Usage Data:** Screens viewed, features used, interactions, time spent.
+- **Log Information:** IP address, crash logs, performance data.
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+### 1.3 Optional Integrations
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+If you connect third-party services (e.g., Apple Health, Google Fit), we may receive information you authorize. We only access data you explicitly grant permission for.
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+---
 
-<br>
+## 2. How We Use Your Information
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+We use your information to:
 
-<br>
+- Provide, personalize, and improve the Service
+- Generate programs, insights, and habit recommendations
+- Track your progress and maintain your account
+- Sync your data across devices
+- Deliver notifications and reminders
+- Respond to support requests
+- Detect and prevent abuse or violations
+- Improve app performance and user experience
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+We do not sell your personal information.
+
+---
+
+## 3. How We Store & Protect Your Information
+
+We take the security of your data seriously.
+
+- Data is stored using secure encrypted databases
+- Passwords are hashed and never stored in plain text
+- Access to user data is restricted to authorized personnel
+- We use industry-standard security protocols (HTTPS, TLS)
+
+No system is 100% secure, but we work continually to protect your information.
+
+---
+
+## 4. Sharing of Information
+
+We do not share your personal information with third parties except:
+
+### 4.1 Service Providers
+
+We may share limited information with trusted vendors (e.g., cloud hosting providers, analytics tools) who help us operate the Service. These partners are contractually required to protect your data.
+
+### 4.2 Legal Requirements
+
+We may disclose information if required by law, court order, or to protect our rights.
+
+### 4.3 Business Transfers
+
+If we are involved in a merger, acquisition, or sale of assets, your data may be transferred. You will be notified if this occurs.
+
+We never sell your data to advertisers or third parties.
+
+---
+
+## 5. Your Rights & Choices
+
+Depending on your region (e.g., GDPR, CCPA), you may have the right to:
+
+- Access your personal information
+- Correct inaccurate data
+- Request deletion of your data
+- Export or download your data
+- Withdraw consent at any time
+- Opt out of data processing for analytics or personalization
+
+You can exercise many of these rights in-app or by contacting us.
+
+---
+
+## 6. Data Retention
+
+We retain your information only as long as necessary to:
+
+- Provide the Service
+- Comply with legal obligations
+- Resolve disputes
+- Enforce agreements
+
+You may delete your account at any time, and we will delete or anonymize your data as required by law.
+
+---
+
+## 7. Children’s Privacy
+
+Locked In is not designed for children under 13 years old (or the minimum legal age in your area). We do not knowingly collect information from children. If you believe a child has provided information, please contact us to remove it.
+
+---
+
+## 8. International Data Transfers
+
+Your data may be stored or processed in countries other than your own. We ensure appropriate safeguards (e.g., Standard Contractual Clauses) when transferring data internationally.
+
+---
+
+## 9. Third-Party Links
+
+The Service may contain links to third-party websites or tools. We are not responsible for their privacy practices. We encourage you to review their policies before using them.
+
+---
+
+## 10. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. If changes are significant, we will notify you through the app or by email. Continued use of Locked In means you accept the updated policy.
+
+---
+
+## 11. Contact Us
+
+If you have questions or requests related to this Privacy Policy, you can contact us at **contact@thegreatlockinapp.com**.
