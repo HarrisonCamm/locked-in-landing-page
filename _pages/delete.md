@@ -16,7 +16,7 @@ You can delete your Locked In account at any time. Once deletion is complete, al
 ## Delete Your Account In-App
 
 1. Open the Locked In iOS app.
-2. Tap **Profile** → **Account & Privacy** → **Delete Account**.
+2. Tap **Home** → **Settings** → **Delete Account**.
 3. Confirm your decision inside the system prompt.
 
 You will receive an email confirmation immediately after the request is queued. If you signed in with Apple, Google, or another SSO provider, deletion still works the same way.
