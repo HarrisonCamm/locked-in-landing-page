@@ -14,10 +14,11 @@ html {
 body {
 	font-size: 2rem;
 	background-color: $body-color;
+	color: #d8e2f0;
 }
 
 .subPageBody {
-	background-color: #fff;
+	background-color: $body-color;
 }
 
 h1 {
