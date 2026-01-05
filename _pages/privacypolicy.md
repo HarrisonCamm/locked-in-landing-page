@@ -144,4 +144,4 @@ We may update this Privacy Policy from time to time. If changes are significant,
 
 ## 11. Contact Us
 
-If you have questions or requests related to this Privacy Policy, you can contact us at **contact@thegreatlockinapp.com**.
+If you have questions or requests related to this Privacy Policy, you can contact us at **thegreatlockinapp@gmail.com**.

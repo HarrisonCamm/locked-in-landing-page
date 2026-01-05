@@ -166,4 +166,4 @@ We may update these Terms from time to time. If changes are significant, we will
 
 ## 16. Contact
 
-If you have questions about these Terms, contact us at **contact@thegreatlockinapp.com**.
+If you have questions about these Terms, contact us at **thegreatlockinapp@gmail.com**.
