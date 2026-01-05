@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Delete Your Locked In Account
+title: Delete Your Reform Account
 include_in_header: true
 permalink: /delete/
 ---
 
-# Locked In – Account Deletion & Data Removal
+# Reform – Account Deletion & Data Removal
 
 **Last updated:** November 27, 2025
 
-You can delete your Locked In account at any time. Once deletion is complete, all personally identifiable data (progress history, journal entries, photos, and habit data) is permanently removed from our production systems within 30 days unless a longer retention period is required by law.
+You can delete your Reform account at any time. Once deletion is complete, all personally identifiable data (progress history, journal entries, photos, and habit data) is permanently removed from our production systems within 30 days unless a longer retention period is required by law.
 
 ---
 
 ## Delete Your Account In-App
 
-1. Open the Locked In iOS app.
+1. Open the Reform iOS app.
 2. Tap **Home** → **Settings** → **Delete Account**.
 3. Confirm your decision inside the system prompt.
 
@@ -27,7 +27,7 @@ You will receive an email confirmation immediately after the request is queued. 
 
 If you cannot access the app or prefer email:
 
-- Send a message from your registered email address to **privacy@thegreatlockinapp.com** with the subject line “Delete My Locked In Account.”
+- Send a message from your registered email address to **privacy@thegreatlockinapp.com** with the subject line “Delete My Reform Account.”
 - Include the email or Apple ID you used for the app plus any optional export requests (e.g., “Send me a copy of my data before deleting”).
 
 We will acknowledge the request within 2 business days, provide a portable export (JSON/CSV) upon request, and finalize deletion within 30 days.

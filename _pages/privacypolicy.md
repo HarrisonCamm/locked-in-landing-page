@@ -4,13 +4,13 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-# Locked In – Privacy Policy
+# Reform – Privacy Policy
 
 **Last updated:** November 15, 2025
 
-Thank you for using Locked In (“we,” “us,” or “our”). This Privacy Policy explains how we collect, use, store, and protect your information when you use our mobile application, website, and related services (collectively, the “Service”).
+Thank you for using Reform (“we,” “us,” or “our”). This Privacy Policy explains how we collect, use, store, and protect your information when you use our mobile application, website, and related services (collectively, the “Service”).
 
-By using Locked In, you agree to the practices described in this Privacy Policy.
+By using Reform, you agree to the practices described in this Privacy Policy.
 
 ---
 
@@ -120,7 +120,7 @@ You may delete your account at any time, and we will delete or anonymize your da
 
 ## 7. Children’s Privacy
 
-Locked In is not designed for children under 13 years old (or the minimum legal age in your area). We do not knowingly collect information from children. If you believe a child has provided information, please contact us to remove it.
+Reform is not designed for children under 13 years old (or the minimum legal age in your area). We do not knowingly collect information from children. If you believe a child has provided information, please contact us to remove it.
 
 ---
 
@@ -138,7 +138,7 @@ The Service may contain links to third-party websites or tools. We are not respo
 
 ## 10. Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. If changes are significant, we will notify you through the app or by email. Continued use of Locked In means you accept the updated policy.
+We may update this Privacy Policy from time to time. If changes are significant, we will notify you through the app or by email. Continued use of Reform means you accept the updated policy.
 
 ---
 

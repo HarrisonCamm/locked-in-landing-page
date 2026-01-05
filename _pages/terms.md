@@ -4,23 +4,23 @@ title: Terms of Service
 include_in_header: false
 ---
 
-# Locked In – Terms of Service
+# Reform – Terms of Service
 
 **Last updated:** November 15, 2025
 
-Welcome to Locked In (“we,” “us,” or “our”). These Terms of Service (“Terms”) govern your access to and use of the Locked In mobile application, website, and any related services (collectively, the “Service”). By creating an account or using the Service, you agree to be bound by these Terms. If you do not agree, do not use the Service.
+Welcome to Reform (“we,” “us,” or “our”). These Terms of Service (“Terms”) govern your access to and use of the Reform mobile application, website, and any related services (collectively, the “Service”). By creating an account or using the Service, you agree to be bound by these Terms. If you do not agree, do not use the Service.
 
 ---
 
 ## 1. Eligibility
 
-You must be at least 13 years old (or the minimum legal age in your region) to use the Service. By using Locked In, you represent that you meet the required age and have the legal capacity to enter into these Terms.
+You must be at least 13 years old (or the minimum legal age in your region) to use the Service. By using Reform, you represent that you meet the required age and have the legal capacity to enter into these Terms.
 
 ---
 
 ## 2. Description of the Service
 
-Locked In provides tools for personal productivity and wellness, including:
+Reform provides tools for personal productivity and wellness, including:
 
 - Habit tracking
 - Personalized program generation
@@ -29,7 +29,7 @@ Locked In provides tools for personal productivity and wellness, including:
 - Daily journaling
 - Other features designed to support personal growth
 
-Locked In is not a medical, psychological, or fitness professional service. All content is for informational and motivational purposes only.
+Reform is not a medical, psychological, or fitness professional service. All content is for informational and motivational purposes only.
 
 ---
 
@@ -71,7 +71,7 @@ Your privacy is important to us. Our Privacy Policy explains how we collect, use
 
 ## 6. Health & Fitness Disclaimer
 
-Locked In may provide habit recommendations, generated programs, and workout-related guidance. You acknowledge and agree that:
+Reform may provide habit recommendations, generated programs, and workout-related guidance. You acknowledge and agree that:
 
 - This information is for general informational purposes only
 - It is not medical or professional advice
@@ -112,7 +112,7 @@ Violations may result in immediate termination and possible legal action.
 
 ## 9. Intellectual Property
 
-The Service, including all trademarks, logos, content, software, and design elements, are the property of Locked In and its licensors. You may not copy, modify, distribute, or create derivative works without our written permission.
+The Service, including all trademarks, logos, content, software, and design elements, are the property of Reform and its licensors. You may not copy, modify, distribute, or create derivative works without our written permission.
 
 ---
 
